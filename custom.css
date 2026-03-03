@@ -1,0 +1,3 @@
+/* NORD UI KIT legacy wrapper (custom.css)
+   Backward compatibility for pages that still load ./custom.css */
+@import url("./nord-ui-kit/custom.css");
